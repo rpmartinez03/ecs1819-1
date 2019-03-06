@@ -5,18 +5,7 @@
     font-family: fantasy;
     color: white;
 }
-.nav{
-  width: 100%;
-	float: left;
-	margin: auto;
-	padding: 0;
-	list-style: none;
-	background-color: white;
-	border-bottom: 1px solid #fff; 
-	border-top: 1px solid #fff;
 
-
-}
 	
 .class4{
   float: left;
@@ -27,6 +16,7 @@
 	color: #000;
 
 }
+
 .class5{
   color: black;
 }
@@ -37,6 +27,12 @@
     background-color:#fff;
    
 }
-.class3{
-    height:200px;
+img{
+    height:300px;
+}
+.navbar {
+	height: 100px;
+}
+.class6{
+	height:50px;
 }
