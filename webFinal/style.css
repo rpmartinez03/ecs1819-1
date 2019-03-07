@@ -21,8 +21,6 @@
   color: black;
 }
 
-
-
 .class2{
     background-color:#fff;
    
@@ -35,4 +33,7 @@ img{
 }
 .class6{
 	height:50px;
+}
+.class8{
+    font-family: fantasy;
 }
