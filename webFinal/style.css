@@ -25,8 +25,11 @@
     background-color:#fff;
    
 }
-img{
+.class7{
     height:300px;
+    border-radius:1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .navbar {
 	height: 100px;
@@ -36,4 +39,17 @@ img{
 }
 .class8{
     font-family: fantasy;
+}
+.class9{
+    font-family: fantasy;
+    text-align: center;
+}
+.class10{
+    width:500px;
+    text-align: center;
+   
+}
+.class11{
+    width:500px;
+  
 }

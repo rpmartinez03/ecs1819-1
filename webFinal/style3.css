@@ -1,0 +1,18 @@
+.jumbotron{
+    background-image:url(images/fall.jpg);
+    height:168px;
+}
+.navbar {
+	height: 100px;
+}
+.class6{
+	height:50px;
+}
+.class1 {
+    width:500px;
+    height:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
