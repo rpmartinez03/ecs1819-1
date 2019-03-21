@@ -23,6 +23,8 @@
 }
 .class3 {
     text-align: center;
+    color: white;
+    font-family: fantasy;
 }
 
 .class4{
@@ -33,4 +35,8 @@
 }
 .class6{
 	height:50px;
+}
+.jumbotron{
+    background-image:url(images2/fall.1.jpg);
+    height:168px;
 }
