@@ -89,5 +89,11 @@
     height:400px;
 }
 .p{
-    font-family: 'Open Sans';
+    font-family: 'Roboto_Slab';
+}
+.nav-link{
+    font-family: 'Lato';
+}
+.class15{
+    font-family: 'Roboto_Slab';
 }
